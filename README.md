@@ -1,8 +1,6 @@
 # hello-world
 Eerste repository
-Hoi Maarten
 
-Hoi Robbert
 
 Poging twee
 
@@ -14,3 +12,5 @@ int b = 10;
 System.out.println(a + b);
 }
 }
+Hallo,
+Dit is Rosanne :D
